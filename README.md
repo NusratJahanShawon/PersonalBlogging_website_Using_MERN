@@ -18,7 +18,7 @@ A personal blogging platform built using the MERN stack (MongoDB, Express.js, Re
 ## 📸 Screenshots
 
 <!-- Add screenshots or a GIF here -->
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/Add Blog.png)
 ![Write Post](./screenshots/write-post.png)
 
 ---
