@@ -18,9 +18,11 @@ A personal blogging platform built using the MERN stack (MongoDB, Express.js, Re
 ## 📸 Screenshots
 
 <!-- Add screenshots or a GIF here -->
-![Write Post](./screenshots/Add Blog.png)
-
-![WritePost](./screenshots/write-post.png)
+![Homme Page](./screenshots/AllBlogs.png)
+![Write Post](./screenshots/AddBlog.png)
+![See Blog Details](./screenshots/Blogdetails.png)
+![Edit Post](./screenshots/EditBlogs.png)
+![Delete Post](./screenshots/Delete.png)
 
 ---
 
@@ -29,6 +31,9 @@ A personal blogging platform built using the MERN stack (MongoDB, Express.js, Re
 **Frontend:**
 - React.js
 - React Router DOM
+- react-modal
+- Material UI Dialog
+- headlessui (for Tailwind users)
 - Axios
 
 **Backend:**
